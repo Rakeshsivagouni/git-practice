@@ -1,5 +1,0 @@
-This is new file added
-from remote repo
-updated new code from remote repo
-new line of code added
-new line added
